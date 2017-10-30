@@ -1,2 +1,11 @@
 # BLAOMP
-MATLAB Codes for Sparse vector recovery algorithm - Batch Look Ahead Orthogonal Matching Pursuit, Look Ahead Orthogonal Matching Pursuit, Orthogonal Matching Pursuit and few other algorithms. 
+This Repo consists of MATLAB codes for the following sparse signal Reconstruction algorithms:
+  
+  1) Orthogonal Matching Pursuit - OMP
+  2) Look Ahead OMP - LAOMP
+  3) Batch Look Ahead OMP - BLAOMP
+  4) CoSaMP
+  5) Subspace Pursuit
+  6) FACS
+  
+  
