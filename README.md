@@ -1,4 +1,4 @@
-# BLAOMP
+# Sparse Reconstruction Algorithms
 This Repo consists of MATLAB codes for the following sparse signal Reconstruction algorithms:
   
   1) Orthogonal Matching Pursuit - OMP
